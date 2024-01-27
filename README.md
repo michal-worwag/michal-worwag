@@ -1,16 +1,13 @@
-### Hi there 👋
+- 🔭 I’m currently working on at [Imoli](https://www.linkedin.com/company/imoli)
+- 🌱 I'm currently striving to increase my skill with React, Next.js and Nest.js
+- ⚡ Fun fact: I watch anime, read books and train CrossFit
 
-<!--
-**michal-worwag/michal-worwag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### :trophy: My stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats-nine-wheat-51.vercel.app/api?username=michal-worwag&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats-nine-wheat-51.vercel.app/api/top-langs/?username=michal-worwag&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
